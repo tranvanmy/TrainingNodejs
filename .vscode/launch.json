@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/Bai32/app.js"
+            "program": "${workspaceFolder}/Bai33/app.js"
         }
     ]
 }
