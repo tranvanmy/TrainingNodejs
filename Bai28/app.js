@@ -2,7 +2,7 @@ var Emitter = require("./emitter");
 
 var emitter = new Emitter();
 
-emitter.on("ba1d", function () {
+emitter.on("bad", function () {
     console.log("1 mon nao do bi diem kem");
 });
 
@@ -11,7 +11,7 @@ emitter.on("bad", function () {
 });
 
 // co 1 bang diem 
-var scores = [10, 4];  
+var scores = [10, 4];
 
 for (var s of scores) {
     if (s < 5) {
